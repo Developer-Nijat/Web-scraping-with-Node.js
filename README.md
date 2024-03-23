@@ -1,4 +1,4 @@
-##Scrape information from a website using Node.js
+Scrape information from a website using Node.js
 
 Web scraping is typically done on the server-side using languages like Python, Node.js, or PHP, as it involves making HTTP requests and parsing HTML content
 
